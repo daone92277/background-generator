@@ -4,6 +4,7 @@
   "description": "",
   "main": "script.js",
   "dependencies": {
+    "lodash": "^4.17.20",
     "react": "^17.0.1"
   },
   "devDependencies": {},
